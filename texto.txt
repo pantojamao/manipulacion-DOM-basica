@@ -1,0 +1,13 @@
+/cambiar texto de etiquetas
+//h1.innerHTML= 'hola Mao'
+
+//cambiar valor de Atributos
+//h1.setAttribute('class','rojo')
+//h1.classList.add('rojo');
+input.value='456'
+const img=document.createElement('img')
+img.setAttribute('src','https://media.istockphoto.com/photos/anonymous-hacker-with-laptop-in-front-of-binary-code-cyber-security-picture-id962366210?k=20&m=962366210&s=612x612&w=0&h=A4fY6df8Hk7nMjdMgdBLblvtvotmyAIVu_NxuV2FXGY=')
+//agregan el elemnto despues de lo que haya en el parrafo
+//si queremos borrar lo que hay 
+//pid.innerHTML=''
+pid.append(img)
